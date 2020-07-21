@@ -7,33 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TLQAgent" />
-        <module name="01-provider-8081" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="00-eurekaserver-8000" target="1.8" />
-      <module name="00-eurekaserver-8100" target="1.8" />
-      <module name="01-consumer-8080" target="1.8" />
-      <module name="01-primary" target="1.8" />
-      <module name="01-provider-8081" target="1.8" />
-      <module name="02-provider-8081" target="1.8" />
-      <module name="chenyonghui" target="1.8" />
-      <module name="demo" target="1.8" />
-      <module name="demos" target="1.8" />
-      <module name="designPatten" target="1.8" />
-      <module name="test" target="1.8" />
+      <module name="TLQAgent" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="00-eurekaserver-8000" options="-parameters" />
-      <module name="00-eurekaserver-8100" options="-parameters" />
-      <module name="01-consumer-8080" options="-parameters" />
-      <module name="01-primary" options="-parameters" />
-      <module name="01-provider-8081" options="-parameters" />
-      <module name="02-provider-8081" options="-parameters" />
-      <module name="demo" options="-parameters" />
-      <module name="test" options="-parameters" />
-    </option>
   </component>
 </project>
