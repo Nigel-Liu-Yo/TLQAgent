@@ -1,0 +1,27 @@
+2020-05-19 08:52:03.631 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 08:52:04.039 [main] INFO  org.reflections.Reflections - Reflections took 378 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 08:56:23.809 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 08:56:24.251 [main] INFO  org.reflections.Reflections - Reflections took 420 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 08:59:00.496 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 08:59:00.802 [main] INFO  org.reflections.Reflections - Reflections took 298 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 08:59:39.872 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 08:59:40.169 [main] INFO  org.reflections.Reflections - Reflections took 273 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 09:04:10.052 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 09:04:10.391 [main] INFO  org.reflections.Reflections - Reflections took 324 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 09:04:38.918 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 09:04:39.347 [main] INFO  org.reflections.Reflections - Reflections took 352 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 09:05:31.041 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 09:05:31.304 [main] INFO  org.reflections.Reflections - Reflections took 250 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 09:06:11.913 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 09:06:12.210 [main] INFO  org.reflections.Reflections - Reflections took 277 ms to scan 1 urls, producing 2 keys and 6 values 
+2020-05-19 09:24:22.542 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Liubin/Desktop/TLQAgent/target/classes/
+2020-05-19 09:24:22.887 [main] INFO  org.reflections.Reflections - Reflections took 314 ms to scan 1 urls, producing 2 keys and 6 values 

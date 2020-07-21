@@ -1,0 +1,5 @@
+2020-05-12 17:41:48.679 [main] INFO  com.agree.tlqAgent.netty.server.NettyServer - Netty-server starting......
+2020-05-12 17:41:53.057 [nioEventLoopGroup-3-1] INFO  com.agree.tlqAgent.netty.server.NettyServer - Netty-server has been started , listening@/0:0:0:0:0:0:0:0:8888
+2020-05-12 17:41:53.130 [nioEventLoopGroup-4-1] INFO  com.agree.tlqAgent.netty.server.NettyServerHandler - client's address is :/127.0.0.1:3112
+2020-05-12 17:41:53.159 [nioEventLoopGroup-4-1] INFO  com.agree.tlqAgent.netty.server.NettyServerHandler - netty server channelRead：START_SCHEDULE
+2020-05-12 17:41:53.171 [nioEventLoopGroup-4-1] INFO  c.a.t.n.s.m.INettyServerMessageExecutor - StartSchedule

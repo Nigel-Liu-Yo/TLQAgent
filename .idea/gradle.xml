@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/buildSrc" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-aop" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-aspects" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-beans" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-context" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-context-indexer" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-context-support" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-core" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-expression" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-framework-bom" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-instrument" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-jcl" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-jdbc" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-jms" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-kkb" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-messaging" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-orm" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-oxm" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-test" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-tx" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-web" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-webflux" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-webmvc" />
+            <option value="$PROJECT_DIR$/../开课吧/源码/spring-framework-5.1.x/spring-websocket" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
